@@ -76,13 +76,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 

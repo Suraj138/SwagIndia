@@ -8,16 +8,7 @@
 </p>
 
 
-<h3 align="center">Project Title</h3>
-
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
+<h3 align="center">Swag India</h3>
 
 ---
 
@@ -76,6 +67,11 @@ Explain what these tests test and why
 Give an example
 ```
 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
